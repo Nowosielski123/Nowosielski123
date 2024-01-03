@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Filip
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Filip
 ============================================================================================================================= 
 Hi there! My name is Filip Nowosielski. I'm studying in Elektronik in Zielona Góra.
 
